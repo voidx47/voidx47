@@ -22,8 +22,6 @@ Programming | Reverse Engineering | Systems
 
 ```log
 Thanks for stopping by!
-
-Connection to github.com closed...
 ```
 
 </div>
